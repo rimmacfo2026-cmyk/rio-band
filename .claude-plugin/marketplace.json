@@ -1,0 +1,6 @@
+{
+  "name": "rimma-rio",
+  "owner": { "name": "Римма Галиуллина" },
+  "description": "Панорама Рио с маскотом с бантиком над полем ввода Claude Code",
+  "plugins": [{ "name": "rio-band", "source": "./" }]
+}
