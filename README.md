@@ -34,3 +34,7 @@ claude plugin install rio-band --marketplace rimmacfo2026-cmyk/rio-band
 ```bash
 claude plugin uninstall rio-band@rimma-rio
 ```
+
+## Лицензия
+
+MIT, текст в файле [LICENSE](LICENSE).
